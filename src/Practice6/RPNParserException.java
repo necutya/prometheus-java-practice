@@ -1,4 +1,4 @@
-package Prectice6;
+package Practice6;
 
 public class RPNParserException extends RuntimeException {
     public void print() {

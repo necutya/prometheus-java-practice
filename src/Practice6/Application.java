@@ -1,4 +1,4 @@
-package Prectice6;
+package Practice6;
 
 
 import java.util.Deque;
